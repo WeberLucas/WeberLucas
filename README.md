@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📚 Estudando PHP e MySQL
 <div align="center">
   <a href="https://github.com/weberlucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weberlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=weberlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weberlucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
