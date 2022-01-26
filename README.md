@@ -1,9 +1,4 @@
 ## Olá! Eu sou Weber Lucas!😁
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 Estou trabalhando na TagPlus!
 - 📚 Estudando PHP e MySQL
 <div align="center">
