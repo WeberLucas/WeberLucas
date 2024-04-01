@@ -1,6 +1,5 @@
 ## Olá! Eu sou Weber Lucas!😁
-- 🔭 Estou trabalhando na TagPlus!
-- 📚 Estudando Cypress
+
 <div align="center">
   <a href="https://github.com/weberlucas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=weberlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
