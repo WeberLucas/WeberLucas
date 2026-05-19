@@ -5,7 +5,7 @@
     <img height="160em" src="https://github-stats-extended.vercel.app/api?username=WeberLucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WeberLucas&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</motion>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="weber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
