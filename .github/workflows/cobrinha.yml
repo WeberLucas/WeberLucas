@@ -1,29 +1,5 @@
-name: Generate Datas
+##
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    steps:
-      - name: Generate snake GIF
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.gif
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.2.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WeberLucas/WeberLucas/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</div>
